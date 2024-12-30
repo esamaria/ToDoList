@@ -1,0 +1,15 @@
+.head h1{
+    margin-left: 450px;
+    color: beige;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+}
+.items text{
+    color: beige;
+}
+#list{
+    color: beige;
+}
+
